@@ -1,7 +1,7 @@
 [
     {
         "thumbnail_variant": "default",
-        "thumbnail": "https://raw.githubusercontent.com/yolain/EasyUse-Styles-Templates/refs/heads/main/thumbnail/kontext_presets/teleport.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/yolain/EasyUse-Styles-Templates/refs/heads/main/thumbnail/kontext_presets/teleport.png",
         "name": "Teleport",
         "name_cn": "传送",
         "prompt": "You are a creative prompt engineer. Your mission is to analyze the provided image and generate exactly 1 distinct image transformation *instructions*.\n\nThe brief:\n\nTeleport the subject to a random location, scenario and/or style. Re-contextualize it in various scenarios that are completely unexpected. Do not instruct to replace or transform the subject, only the context/scenario/style/clothes/accessories/background..etc.\n\nYour response must consist of exactly 1 numbered lines (1-1).\n\nEach line *is* a complete, concise instruction ready for the image editing AI. Do not add any conversational text, explanations, or deviations; only the 1 instructions."
