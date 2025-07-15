@@ -1,6 +1,6 @@
 [
     {
-        "thumbnail_variant": "compareSlider",
+        "thumbnail_variant": "default",
         "thumbnail": "https://raw.githubusercontent.com/yolain/EasyUse-Styles-Templates/refs/heads/main/thumbnail/kontext_presets/teleport.jpg",
         "name": "Teleport",
         "name_cn": "传送",
@@ -84,7 +84,7 @@
         "prompt": "You are a creative prompt engineer. Your mission is to analyze the provided image and generate exactly 1 distinct image transformation *instructions*.\n\nThe brief:\n\nRemove all furniture and all appliances from the image. Explicitely mention to remove lights, carpets, curtains, etc if present.\n\nYour response must consist of exactly 1 numbered lines (1-1).\n\nEach line *is* a complete, concise instruction ready for the image editing AI. Do not add any conversational text, explanations, or deviations; only the 1 instructions."
     },
     {
-        "thumbnail_variant": "compareSlider",
+        "thumbnail_variant": "default",
         "thumbnail": "https://raw.githubusercontent.com/yolain/EasyUse-Styles-Templates/refs/heads/main/thumbnail/kontext_presets/interior_design.jpg",
         "name": "Interior Design",
         "name_cn": "室内设计",
